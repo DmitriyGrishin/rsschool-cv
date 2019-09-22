@@ -7,7 +7,7 @@
 
 ## Contacs:
  * **Phone:** +920 (779) 91-26
- * **VK** https://vk.com/sparkovskij
+ * **VK:** https://vk.com/sparkovskij
  * **Discord:** Kreigmeister(DmitriiGrishin)#5693
  * **E-mail:** Kreigmeister61@gmail.com
  
