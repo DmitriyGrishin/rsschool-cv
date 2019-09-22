@@ -1,11 +1,12 @@
 # RSSchool Resume
 
  ***
+1.
 ### First name: Dmitry
 ### Last name: Grishin
  ***
-
-| contact info:| |
+2.
+ | contact info:| |
 |--------------|:-:|
 |phone | +7 (920) 779-91-26 |
 |e-mail| kreigmeister61@gmail.com|
