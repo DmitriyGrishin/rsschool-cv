@@ -9,8 +9,6 @@
 |--------------|:-:|
 |phone | +7 (920) 779-91-26 |
 |e-mail| kreigmeister61@gmail.com|
-|discord| Kreigmeister(DmitriiGrishin)#5693|
-|vk| https://vk.com/sparkovskij|
 |telegram| @Sparkovskij|
 ***
 
