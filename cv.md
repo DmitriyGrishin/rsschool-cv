@@ -28,7 +28,7 @@
  
 ## Code example
 
-#include <iostream> #include <conio.h> #include <cstdlib> #include <Windows.h> 
+#include <iostream> <conio.h>  <cstdlib> <Windows.h> 
 
 using namespace std; 
 
