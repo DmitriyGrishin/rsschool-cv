@@ -5,6 +5,7 @@
 ### Last name: Grishin
 ***
 2.
+
 | contact info:| |
 |--------------|:-:|
 |phone | +7 (920) 779-91-26 |
@@ -12,7 +13,7 @@
 |discord| Kreigmeister(DmitriiGrishin)#5693|
 |vk| https://vk.com/sparkovskij|
 |telegram| @Sparkovskij|
-***
+
 3.
 ### Summary
 > Студент 4-го курса МОФ МФЮА направления 09.03.03 "Прикладная информатика в экономике".
