@@ -27,10 +27,8 @@
 В свободное время обучаюсь в бесплатных образовательных приложениях на iOS: sololearn (c++/javascript/php/html), windows: web-приложение javarush (java - базовые знания), а также  работаю в аудио/видео редакторе Sony Vegas Pro. Изучаю программу 3ds Max, чтобы создавать 3d объекты для печати на 3d принтере.
  
 ## Code example
-#include <iostream> 
-#include <conio.h> 
-#include <cstdlib> 
-#include <Windows.h> 
+
+#include <iostream> #include <conio.h> #include <cstdlib> #include <Windows.h> 
 
 using namespace std; 
 
