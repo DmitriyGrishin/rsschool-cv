@@ -1,17 +1,15 @@
 # RSSchool Resume
 
- ***
-1.
-### First name: Dmitry
-### Last name: Grishin
- ***
-2.
- contact info:
+***
+### First name: 
+### Last name: 
+***
+
+| contact info:| |
 |--------------|:-:|
-|phone | +7 (920) 779-91-26 |
-|e-mail| kreigmeister61@gmail.com|
-|telegram| @Sparkovskij|
- ***
+|phone |  |
+|e-mail| |
+|telegram| |
 3.
 ### Summary
 > Студент 4-го курса МОФ МФЮА направления 09.03.03 "Прикладная информатика в экономике".
