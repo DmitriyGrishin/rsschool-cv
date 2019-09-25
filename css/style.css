@@ -1,0 +1,99 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body
+{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.menu
+{
+    height: 55px;
+    background: linear-gradient(#8c2ab3, #665864);
+    padding: 10px 0px;
+    word-spacing: 40px;
+}
+.menu nav
+{
+    text-align: center;
+}
+.menu nav a
+{
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    vertical-align: top;
+    padding: 7px 7px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.menu nav a:hover
+{
+    text-decoration: underline;
+}
+
+.menu nav a.selected
+{
+    outline: 2px solid white;
+    cursor: default;
+}
+header
+{
+    text-align: center;
+}
+.block1
+{
+        display:flex;
+}
+
+.moreinfo
+{
+    text-align: center;
+    height: 25px;
+    background: linear-gradient(#8c2ab3, #665864);
+    padding: 10px 0px;
+}
+p
+{
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+.moreinfo a
+{
+    color: white;
+}
+h3
+{
+    text-align: center;
+    margin: 15px 5px 15px 5px;
+}
+.image2
+{
+    margin: 0 auto;
+}
+.secondImg
+{
+    text-align: center;
+}
+.firstLi
+{
+    margin-top: 180px;
+    margin-left: 30px;
+}
+h1
+{
+    text-align: center;
+}
+.student
+{
+    text-align: justify;
+    font-family: monospace;
+    font-size: 20px;
+}
